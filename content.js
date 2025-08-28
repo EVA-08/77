@@ -60,6 +60,6 @@ const CONTENT = {
 <span>我会永远支持你</span>
 <span>我会永远鼓励你</span>
 <span>我会永远守护你</span>
-<span>我会永远爱你着</span>
+<span>我会永远爱着你</span>
 </p>`
 };

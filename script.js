@@ -52,7 +52,7 @@ nextBtn.addEventListener('click', () => {
     const total = CONTENT.paragraphs.length;
     if (idx < total) {
         render();
-        if (idx <= total) {
+        if (idx === 0) {
             confetti();
         }
         idx++;
